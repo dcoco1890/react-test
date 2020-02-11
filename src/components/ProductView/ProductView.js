@@ -22,7 +22,6 @@ const ConnectedProductView = props => {
           />
         );
       })}
-      ;
     </div>
   );
 };
